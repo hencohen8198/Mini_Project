@@ -1,6 +1,6 @@
 #Semester 5-6
 Simulate a run of BFS in a random maze or custom maze.
-Made by @yogev0110 and @hencohen8198
+Made by @yogev0110 and @hencohen8198.
 
 #Semester 5 Project
 MyFuel system, with runnable jars for clients and server. 
