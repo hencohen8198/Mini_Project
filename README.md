@@ -1,3 +1,11 @@
+
+#semester 7 Project
+An application for secure delivery of gray images, Password access to the data, EC Diffie-Hellman secret key generation, encryption-decryption with RC6 in OFB mode + image verification of decrypted image with MAC (Message authentication code)
+
+#semester 6 Project
+Convolutional Neural Network Architectures for Matching Natural Language Sentences.
+The project purpose: The project is involved with two sentences comparison By semantics templates using CNN models.
+
 #Semester 5-6
 
 Simulate a run of BFS in a random maze or custom maze.
